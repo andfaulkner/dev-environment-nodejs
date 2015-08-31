@@ -1,0 +1,1179 @@
+{
+	"folder_history":
+	[
+		"/home/andfaulkner/Projects/yeoman/generator-add-gulp-webpack",
+		"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-starter",
+		"/home/andfaulkner/Projects/express/express-test-3",
+		"/home/andfaulkner/Projects/express/express-test-2",
+		"/home/andfaulkner/Projects/express/express-test-1",
+		"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-frontend-node",
+		"/home/andfaulkner/Projects/yeoman/generated/generator-generator-gulp-webpack-frontend-essentials",
+		"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials",
+		"/home/andfaulkner/Projects/gulp-extract-js-from-xsl",
+		"/home/andfaulkner/Projects/hapi/hapi-test-3",
+		"/home/andfaulkner/Projects/hapi/hapi-test-2",
+		"/home/andfaulkner/Projects/cordova/lodash-superstring",
+		"/home/andfaulkner/Projects/cordova/gulp-display-help",
+		"/home/andfaulkner/Projects/node/promises-test",
+		"/home/andfaulkner/Projects/cordova/CMSMobile"
+	],
+	"last_version": 3083,
+	"last_window_id": 36,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1023.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"module",
+						"moduleObjectLiteral	nodejs--moduleObjectLiteral"
+					],
+					[
+						"le",
+						"length	String"
+					],
+					[
+						"doc",
+						"doctype	HTML - HTML foundation"
+					],
+					[
+						"html",
+						"htmlboiler	htmlboiler"
+					],
+					[
+						"array",
+						"new Blob(${0:array}, options)	Blob"
+					],
+					[
+						"try",
+						"try catch finally"
+					],
+					[
+						"encodreU",
+						"encodeURIComponent(${0:URI})	Window"
+					],
+					[
+						"createRead",
+						"fs.createReadStream"
+					],
+					[
+						"createServ",
+						"http.createServer"
+					],
+					[
+						"__",
+						"__dirname"
+					],
+					[
+						"create",
+						"http.createServer"
+					],
+					[
+						"argv",
+						"process.argv"
+					],
+					[
+						"createServer",
+						"net.createServer"
+					],
+					[
+						"env",
+						"process.env"
+					],
+					[
+						"exec",
+						"child_process.exec"
+					],
+					[
+						"lstat",
+						"fs.lstat"
+					],
+					[
+						"dir",
+						"fs.readdir"
+					],
+					[
+						"if",
+						"ifElse"
+					],
+					[
+						"obj",
+						"objToStr"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 285.0,
+				"last_filter": "syntax: d",
+				"selected_items":
+				[
+					[
+						"syntax: d",
+						"Set Syntax: Dust"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax: sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"set syntax: Java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"handle",
+						"Set Syntax: Handlebars"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"terminal",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: no_p"
+					],
+					[
+						"Snippet",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"Ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: In",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 433.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/andfaulkner/Projects/express/express-test-3/bin/www",
+				"/home/andfaulkner/Projects/express/express-test-3/data/img-load-async.json",
+				"/home/andfaulkner/Projects/express/express-test-3/data/index-data.json",
+				"/home/andfaulkner/Projects/express/express-test-3/middlewares/ip-output.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Handlebars.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/andfaulkner/Projects/express/express-test-3/views/index.hbs",
+				"/home/andfaulkner/Projects/express/express-test-3/views/error.hbs",
+				"/home/andfaulkner/Projects/express/express-test-3/nodemon.json",
+				"/home/andfaulkner/Projects/express/express-test-3/middlewares/get-ip-address.js",
+				"/home/andfaulkner/Projects/express/express-test-3/public/stylesheets/style.sass",
+				"/home/andfaulkner/Projects/express/express-test-3/routes/index.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Solarized Toggle/SolarizedToggle.sublime-settings",
+				"/home/andfaulkner/Projects/express/express-test-3/app.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/SolarizedToggle.sublime-settings",
+				"/home/andfaulkner/Projects/express/express-test-3/routes/img-load-async.js",
+				"/home/andfaulkner/Projects/express/express-test-3/views/layout.hbs",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/andfaulkner/Projects/express/express-test-3/views/img-load-async.hbs",
+				"/home/andfaulkner/Projects/express/express-test-3/build/www/javascripts/img-load-async-view.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/andfaulkner/Projects/express/express-test-3/package.json",
+				"/home/andfaulkner/Projects/express/express-test-3/routes/users.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/REGEX--line-containing-item1-not-followed-by-item-2.sublime-snippet",
+				"/home/andfaulkner/Projects/express/express-test-3/public/stylesheets/style.css",
+				"/home/andfaulkner/Projects/express/express-test-3/config/node_config.json",
+				"/home/andfaulkner/Projects/express/express-test-3/config/.env",
+				"/home/andfaulkner/Projects/express/express-test-3/_nodemon.json",
+				"/home/andfaulkner/Projects/express/express-test-3/node_modules/body-parser/README.html",
+				"/home/andfaulkner/Projects/express/express-test-1/express-test-1.sublime-project",
+				"/home/andfaulkner/Projects/express/express-test-1/app.js",
+				"/home/andfaulkner/Projects/express/express-test-1/untitled.sublime-project",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/gulpfile.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/forever_config.json",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/server.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/src/routing-handler.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/src/mongodb.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/src/plugin-handler.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/gulpfileOLD.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/nodejs--moduleObjectLiteral.sublime-snippet",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/package.json",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/build/server/server.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/content/index.html",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/content/html/login.html",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/webpack.config.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/webpack.base.config.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/nodemon.json",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Package Control.cache/nodejs--hapi-template.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/require-node.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/readFile-nodejs.sublime-snippet",
+				"/home/andfaulkner/Projects/hapi/hapi-test-3/content/html/login.html\n",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/nodejs--readfile-external-catch-error-function.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/comment-section.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Package Control.cache/nodejs--hapi-boiler.sublime-snippet",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/content/html/login.html\n",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/content/index.html",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/src/routes.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/src/plugins.js",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/server.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/html-boilerplate.sublime-snippet",
+				"/home/andfaulkner/Projects/hapi/hapi-test-2/src/session.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/lodash-superstring.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/README.md",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/test/spec/test.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/gulpfile.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/test/index.html",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/SpecRunner.html",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/dest/lodash-superstring.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/.yo-rc.json",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/websockets/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-client/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/concat/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/concat/untitled",
+				"/home/andfaulkner/Projects/hapi/hapi-test-1/server.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/lines/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-json-api-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/meet-pipe/program.js",
+				"/home/andfaulkner/Projects/cordova/gulp-display-help/gulpfile.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/REGEX_p_dot_with_no_char_before.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/no_p.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/transform/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/input-output/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-uppercaserer/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-file-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/time-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/juggling-async/program.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/gulpfile.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/doc/gulpfile-promises-attempt-backup.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/test/caspertest.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/test/casper-modules/shims-patches.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/mediator.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/doc/Regex/eclipseSearches.txt",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/acw__button-overrides.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/index.html",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__back-button.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--insert_body.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--default.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/util/util__debug.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/acw__dom-insert-pipeline.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/util/util__main.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/page/page__login.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--calendar.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/html/mock__calendar-CMS.html",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__files.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__navdrawer.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--login.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--insert_data.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/webpack.base.config.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/app-entry.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__main.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/init/init__external-libs.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/init/init__db.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__wifi.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__entry.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__camera.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__topbar.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__footer.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__viewhandler.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/filetree.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/page/page__serverlist.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__notifications.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__spinner.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3",
+					"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3/node_modules/**",
+					"/home/andfaulkner/Projects/express/express-test-3,-/home/andfaulkner/Projects/express/express-test-3/node_modules",
+					"/home/andfaulkner/Projects/express/express-test-3",
+					"/home/andfaulkner/Projects/express/express-test-3/app.js,/home/andfaulkner/Projects/express/express-test-3/package.json,/home/andfaulkner/Projects/express/express-test-3/bin,/home/andfaulkner/Projects/express/express-test-3/public,/home/andfaulkner/Projects/express/express-test-3/routes,/home/andfaulkner/Projects/express/express-test-3/views",
+					"/home/andfaulkner/Projects/express/express-test-3/bin,/home/andfaulkner/Projects/express/express-test-3/public,/home/andfaulkner/Projects/express/express-test-3/routes,/home/andfaulkner/Projects/express/express-test-3/views",
+					"<project>",
+					"web_modules/js/**",
+					"web_modules/**",
+					"web_modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"imgURL",
+					"imgURLs",
+					"app.engine",
+					"html",
+					"emmet",
+					"switch",
+					"((\\/home\\/andfaulkner\\/)((?!node_modules).)*)$",
+					"((\\/home\\/andfaulkner\\/)((?!node_modules).)*)",
+					"(^((?!node_modules).)[\\s\\S]*?)(?=\\/home).",
+					"^((?!node_modules).)[\\s\\S]*?(?=\\/home).",
+					"^((?!node_modules).)[\\s\\S]*?",
+					"^((?!node_modules).)[\\s\\S]*?(?=\\/home)",
+					"^((?!node_modules).)[\\s\\S]*(?=\\/home)",
+					"^((?!node_modules).)[\\s\\S]*\\/home",
+					"^((?!node_modules).).*\\/home",
+					"^((?!node_modules).)*\\n.*\\/home",
+					"^((?!node_modules).)*\\n.*\\/",
+					"^((?!node_modules).)*\\n.*",
+					"^((?!node_modules).)*\\n",
+					"^((?!node_modules).)*$",
+					"^.*(?!node_modules).*$",
+					"body",
+					"html",
+					"error",
+					"layout",
+					"var port =",
+					"debug",
+					"reply",
+					"retMongoError",
+					"defPluginRegisterCb",
+					"defaultPluginRegisterCb",
+					"requestIp",
+					"requestIp = require('request-ip');\n",
+					"p.",
+					"p.yar",
+					"babel",
+					"installRoutes",
+					"handleErr",
+					"coll",
+					"        // it(\"- should create an array out of the 2 given objects, if 2 non-arrays given\", function(){\n        //     expect(_.unshift('b', 'a')).toEqual(['a', 'b']);\n        // });\n",
+					"strict",
+					"replaceStrOnMatch",
+					"starts",
+					"moveTo",
+					"unescape",
+					"ctrl\\+shift",
+					"ctrl+shift",
+					"up",
+					"rmEnd",
+					"RMeND",
+					"rmEndCharOnMatch",
+					"isArray\\(arr",
+					"unshiftIfMatchAndRm",
+					"getTestArr",
+					"isString\\(coll",
+					"isString(",
+					"isString(coll",
+					"replaceStrInMatchedItem",
+					"array.splice",
+					"swapBy",
+					"wrap",
+					"undefined",
+					"addAndroid",
+					"(?<!\\w)p\\.",
+					"(?<!l)p\\.",
+					"gul",
+					"p\\.",
+					"\\+y",
+					"ctrl\\+alt\\+shift\\+",
+					"ctrl\\+alt\\+shift\\+j",
+					"ctrl+alt",
+					"key",
+					"\\+j",
+					"\\+b",
+					"+b",
+					"here",
+					"console",
+					");\n",
+					"toString",
+					"through2",
+					"gulp.src",
+					"wipe",
+					"exec",
+					"android-compile",
+					"testexec",
+					"fs",
+					"plugin",
+					"plugins !==",
+					"&& !!plugins",
+					"showLongCenter",
+					"handleReturnedACWData",
+					"overrideFormSubmit",
+					"POST",
+					"POST “|| “post",
+					"plugins",
+					"overrideLinks",
+					"\\s\\s\\slog|cl",
+					"\\s\\slog|cl",
+					"(!>=\\s\\s?\\s?\\/)log|cl",
+					"log|cl",
+					"aHrefTriggeredGetReq",
+					"aHrefTri",
+					"ahrefTrigg",
+					"aHrefTriggeredGetReq",
+					"Bullet",
+					"\\}\\([^\\)]?+\\)",
+					"\\}\\([^\\)]?+\\)[^\\)].",
+					"\\}\\([^)]+",
+					"\\}\\([^\\)]+\\)",
+					"\\}\\([^\\)]\\)([^\\)])",
+					"\\}\\([^\\)]\\)([^\\)]|\\;)",
+					"\\}\\(\\)",
+					"\\}\\(.?\\)",
+					"\\}\\(.*?\\)",
+					"\\}\\(\\.",
+					"\\}\\(\\.*?\\)",
+					"\\}\\(\\.*\\)",
+					"assert",
+					"\\}\\(\\.*\\)",
+					"backstack",
+					"\\}\\(\\.*\\)",
+					"\\{\\(\\.*)",
+					"\\{\\(\\)",
+					"{()",
+					"\\}\\s?\\([a-zA-Z0-9]*\\)[^)](?!\\))",
+					"\\}\\s?\\([a-zA-Z0-9)]*\\)[^)](?!\\))",
+					"\\}\\s?\\([a-zA-Z0-9)]*\\)[^\\)](?!\\))",
+					"\\}\\s?\\(.*\\)[^\\)](?!\\))"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\"imgURL\"",
+					"\"imgURLs\"",
+					"defPluginRegisterCb",
+					"handleRegisterError",
+					"testArr",
+					"",
+					"\\t\\/\\*DEBUG\\}\\}>\\*\\/",
+					"\\t/*<{{DEBUG*/",
+					"",
+					"function navdrawer_",
+					"p.size ))",
+					"args.casper",
+					"args.runOnce",
+					"args.stats",
+					"args.production",
+					"_copy-static",
+					"__compiler",
+					"compiler"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 68.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 88.0
+			},
+			"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 570.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1252.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"o",
+						"olfprop	nodejs--object-literal-function-property"
+					],
+					[
+						"array",
+						"new Blob(${0:array}, options)	Blob"
+					],
+					[
+						"try",
+						"try catch finally"
+					],
+					[
+						"encodreU",
+						"encodeURIComponent(${0:URI})	Window"
+					],
+					[
+						"createRead",
+						"fs.createReadStream"
+					],
+					[
+						"createServ",
+						"http.createServer"
+					],
+					[
+						"__",
+						"__dirname"
+					],
+					[
+						"create",
+						"http.createServer"
+					],
+					[
+						"argv",
+						"process.argv"
+					],
+					[
+						"createServer",
+						"net.createServer"
+					],
+					[
+						"env",
+						"process.env"
+					],
+					[
+						"exec",
+						"child_process.exec"
+					],
+					[
+						"lstat",
+						"fs.lstat"
+					],
+					[
+						"dir",
+						"fs.readdir"
+					],
+					[
+						"if",
+						"ifElse"
+					],
+					[
+						"obj",
+						"objToStr"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 264.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"open",
+						"SublimeLinter: Report (Open Files)"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: no_p"
+					],
+					[
+						"Snippet",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"Ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: In",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 557.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"jshint",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/.bin",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/chalk"
+			],
+			"file_history":
+			[
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/_gulpfile.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/_package.json",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/index.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/_nodemon.json",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/yeoman-generator/node_modules/yeoman-assert/node_modules/lodash/lodash.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/yeoman-generator/node_modules/mem-fs-editor/actions/copy-tpl.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/yeoman-generator/lib/util/engines.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/node_modules/yeoman-generator/lib/util/deprecate.js",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/editorconfig",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/.gitignore",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/.gitignore",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/app/templates/_gitignore",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/app/templates/_bower.json",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/JavaScriptNext.sublime-settings",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/node_modules/yo/node_modules/configstore/node_modules/mkdirp/index.js",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/node_modules/yeoman-generator/lib/actions/actions.js",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/node_modules/yeoman-generator/lib/actions/install.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/keepers/nodejs--object-literal-function-property-ultra-basic.sublime-snippet",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/.yo-rc.json",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/keepers/nodejs--object-literal-function-property-basic.sublime-snippet",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/app/templates/_package.json",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/app/templates/_gulpfile.js",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/app/templates/bowerrc",
+				"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/app/templates/gitignore",
+				"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-frontend-node/app/index.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/lodash-superstring.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/test/spec/test.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/gulpfile.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/test/index.html",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/SpecRunner.html",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/dest/lodash-superstring.js",
+				"/home/andfaulkner/Projects/cordova/lodash-superstring/.yo-rc.json",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/websockets/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-client/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/concat/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/concat/untitled",
+				"/home/andfaulkner/Projects/hapi/hapi-test-1/server.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/lines/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-json-api-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/meet-pipe/program.js",
+				"/home/andfaulkner/Projects/cordova/gulp-display-help/gulpfile.js",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/REGEX_p_dot_with_no_char_before.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/snippets/no_p.sublime-snippet",
+				"/home/andfaulkner/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/transform/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/input-output/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-uppercaserer/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/http-file-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/time-server/program.js",
+				"/home/andfaulkner/Projects/cordova/learnnode/juggling-async/program.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/gulpfile.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/doc/gulpfile-promises-attempt-backup.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/test/caspertest.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/test/casper-modules/shims-patches.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/mediator.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/doc/Regex/eclipseSearches.txt",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/acw__button-overrides.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/index.html",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__back-button.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--insert_body.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--default.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/util/util__debug.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/acw__dom-insert-pipeline.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/util/util__main.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/page/page__login.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--calendar.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/html/mock__calendar-CMS.html",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__files.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__navdrawer.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--login.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/acw/configDOMInsert/acw__config-dom-insert--insert_data.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/webpack.base.config.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/app-entry.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__main.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/init/init__external-libs.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/init/init__db.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__wifi.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__entry.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__camera.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__topbar.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__footer.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/router/router__viewhandler.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/filetree.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/page/page__serverlist.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/device/device__notifications.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/component/component__spinner.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/tasks/gulp/help.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/tasks/gulp/backup.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/tasks/gulp/copy-static-assets.js",
+				"/home/andfaulkner/Projects/cordova/CMSMobile/test/casper-modules/shims-patches-utils.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"web_modules/js/**",
+					"web_modules/**",
+					"web_modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"app_name",
+					"package",
+					"webpack_once",
+					"\"",
+					"web_js",
+					"\"",
+					"int",
+					"hint",
+					"ctrl\\+shift",
+					"ctrl+shift",
+					"up",
+					"rmEnd",
+					"RMeND",
+					"rmEndCharOnMatch",
+					"isArray\\(arr",
+					"unshiftIfMatchAndRm",
+					"getTestArr",
+					"isString\\(coll",
+					"isString(",
+					"isString(coll",
+					"replaceStrInMatchedItem",
+					"array.splice",
+					"swapBy",
+					"wrap",
+					"undefined",
+					"addAndroid",
+					"(?<!\\w)p\\.",
+					"(?<!l)p\\.",
+					"gul",
+					"p\\.",
+					"\\+y",
+					"ctrl\\+alt\\+shift\\+",
+					"ctrl\\+alt\\+shift\\+j",
+					"ctrl+alt",
+					"key",
+					"\\+j",
+					"\\+b",
+					"+b",
+					"here",
+					"console",
+					");\n",
+					"toString",
+					"through2",
+					"gulp.src",
+					"wipe",
+					"exec",
+					"android-compile",
+					"testexec",
+					"fs",
+					"plugin",
+					"plugins !==",
+					"&& !!plugins",
+					"showLongCenter",
+					"handleReturnedACWData",
+					"overrideFormSubmit",
+					"POST",
+					"POST “|| “post",
+					"plugins",
+					"overrideLinks",
+					"\\s\\s\\slog|cl",
+					"\\s\\slog|cl",
+					"(!>=\\s\\s?\\s?\\/)log|cl",
+					"log|cl",
+					"aHrefTriggeredGetReq",
+					"aHrefTri",
+					"ahrefTrigg",
+					"aHrefTriggeredGetReq",
+					"Bullet",
+					"\\}\\([^\\)]?+\\)",
+					"\\}\\([^\\)]?+\\)[^\\)].",
+					"\\}\\([^)]+",
+					"\\}\\([^\\)]+\\)",
+					"\\}\\([^\\)]\\)([^\\)])",
+					"\\}\\([^\\)]\\)([^\\)]|\\;)",
+					"\\}\\(\\)",
+					"\\}\\(.?\\)",
+					"\\}\\(.*?\\)",
+					"\\}\\(\\.",
+					"\\}\\(\\.*?\\)",
+					"\\}\\(\\.*\\)",
+					"assert",
+					"\\}\\(\\.*\\)",
+					"backstack",
+					"\\}\\(\\.*\\)",
+					"\\{\\(\\.*)",
+					"\\{\\(\\)",
+					"{()",
+					"\\}\\s?\\([a-zA-Z0-9]*\\)[^)](?!\\))",
+					"\\}\\s?\\([a-zA-Z0-9)]*\\)[^)](?!\\))",
+					"\\}\\s?\\([a-zA-Z0-9)]*\\)[^\\)](?!\\))",
+					"\\}\\s?\\(.*\\)[^\\)](?!\\))",
+					"\\}\\s?\\(.*\\)+(?!\\))",
+					"\\}\\s?\\(.[^\\)]",
+					"\\}\\s?\\(.[^\\)]+(?!=\\s?\\(.*\\))",
+					"\\}\\s?\\(.[^\\)]+(?!\\s?\\))",
+					"\\}\\s?\\(.+\\)(?!\\s?\\))",
+					"\\}\\s?\\(\\)(?!\\s?\\))",
+					"\\}\\s?\\(\\)(?!\\s?\\)",
+					"babel",
+					"ecm",
+					"function[^\\n]*\\n.*var|for\\s?\\(var",
+					"for\\s?\\(var",
+					"function[^\\n]*\\n.*|for\\s?\\(var",
+					"function[^\\n]*\\n.*var",
+					"function[^\\n]*\\n.*let",
+					"(?<=\\s{4}\\n)var",
+					"(?<!\\s)var",
+					"(?<=\\s)*var",
+					"(?<=function)*var",
+					"(?<=.\\s)var",
+					"(?<=\\s)var",
+					"(?<!\\s)var",
+					"(?<!\\s{1,10})var",
+					"(?<!a)var",
+					"var(?<!a)",
+					"var(?>!a)",
+					"var(?>=a)",
+					"var(?>a)",
+					"var(?=\\s)",
+					"var(?<=\\s)",
+					"var(?<=\\sa)",
+					"var(?<=a\\s)",
+					"var(?<=a[\\s])",
+					"var(?<=a[^])",
+					"var(?<=a[^\\n\\s\\t\\r])",
+					"var(?<=a[^\\n\\s\\t])",
+					"var(?<=a[^\\n\\S])",
+					"var(?<=a[^\\n\\s\\S])"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"pkg",
+					"'",
+					"webJS",
+					"'",
+					"testArr",
+					"",
+					"\\t\\/\\*DEBUG\\}\\}>\\*\\/",
+					"\\t/*<{{DEBUG*/",
+					"",
+					"function navdrawer_",
+					"p.size ))",
+					"args.casper",
+					"args.runOnce",
+					"args.stats",
+					"args.production",
+					"_copy-static",
+					"__compiler",
+					"compiler"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 138.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/JSHint/JSHint.sublime-build",
+			"position": "0,0,0,0,0,0,12,1252,1035,3280,1062",
+			"project": "generator-gulp-webpack-frontend-essentials.sublime-project",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 182.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 29,
+			"workspace_name": "/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/generator-gulp-webpack-frontend-essentials.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-essentials/generator-gulp-webpack-frontend-essentials.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generator-add-gulp-webpack/generator-add-gulp-webpack.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-starter/generator-add-gulp-webpack.sublime-workspace",
+			"/home/andfaulkner/Projects/express/express-test-3/express-test-3.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-starter/generator-gulp-webpack-starter.sublime-workspace",
+			"/home/andfaulkner/Projects/hapi/hapi-test-3/hapi-test-3.sublime-workspace",
+			"/home/andfaulkner/Projects/express/express-test-2/express-test-2.sublime-workspace",
+			"/home/andfaulkner/Projects/express/express-test-1/express-test-1.sublime-workspace",
+			"/home/andfaulkner/Projects/express/express-test-1/untitled.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/CMSMobile/CMSMobile.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generated/generator-gulp-webpack-essentials/generator-gulp-webpack-frontend-essentials.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generator-gulp-webpack-frontend-node/generator-gulp-webpack-frontend-node.sublime-workspace",
+			"/home/andfaulkner/Projects/yeoman/generated/generator-generator-gulp-webpack-frontend-essentials/generator-gulp-webpack-frontend-essentials.sublime-workspace",
+			"/home/andfaulkner/Projects/extract-js-from-xsl/extract-js-from-xsl.sublime-workspace",
+			"/home/andfaulkner/Projects/gulp-extract-js-from-xsl/gulp-extract-js-from-xsl.sublime-workspace",
+			"/home/andfaulkner/Projects/hapi/hapi-test-2/hapi-test-2.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/lodash-superstring/lodash-superstring.sublime-workspace",
+			"/home/andfaulkner/Projects/gulp-extract-js-from-xsl/untitled.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/CMSMobile/web_modules/js/init/init__external-libs.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/websockets/websockets.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-client/http-client.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/http-server/http-server.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/concat/concat.sublime-workspace",
+			"/home/andfaulkner/Projects/hapi/hapi-test-1/hapi-test-1.sublime-workspace",
+			"/home/andfaulkner/Projects/hapi/hapi-test-1.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/lines/stream-adventure-lines.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/input-output/program.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/gulp-display-help/gulp-display-help.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/transform/transform.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/input-output/input-output.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/stream-adventure/meet-pipe/meet-pipe.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/http-json-api-server/http-json-api-server.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/http-uppercaserer/http-uppercaserer.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/http-file-server/http-file-server.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/time-server/untitled.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/learnnode/juggling-async/juggling-async.sublime-workspace",
+			"/home/andfaulkner/Projects/node/promises-test/CMSMobile.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/CMSMobile/promises-test.sublime-workspace",
+			"/home/andfaulkner/Projects/cordova/CMSMobile.sublime-workspace"
+		]
+	}
+}

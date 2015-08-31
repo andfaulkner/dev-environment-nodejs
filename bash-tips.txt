@@ -1,0 +1,67 @@
+#shell
+
+### my gnome-terminal alias ###                              
+gt
+
+### sudo while preserving access to custom aliases etc.
+sudo su --preserve-environment
+
+### add text to end of file
+appendtext "some text" filename.txt
+
+### search history for regular expression with "OR" operator
+history | grep -e "gt\|gnome"    #key: escape the "OR" 
+
+### open something in new window``      
+gnome-terminal 
+
+### pause for 5 seconds
+sleep 5
+
+#first of last few terminal lines of stdout --- example:
+ls | tail -3         # to only see last 3 lines of stdout 
+ls | head -5         # to only see first 5 lines of stdout
+
+####### VIM TIPS ########
+#--- to copy w/ mouse, hold shift when selecting txt; ctrl-c will then work on it
+#------ or hit ctrl-shift-c after selecting it 
+
+#--- setf sh   OR   setf javascript   etc --- interpret any file as any type of code 
+
+# %               --- jump to matching brace
+
+#  <C-b>          --- create "header"
+#  <C-w>b         --- create bottom of section marked by header
+
+#  v>             --- indent right
+#  v<             --- indent left
+
+#  v0<del>        --- delete to start of row
+#  v$<LEFT><DEL>  --- delete to end of row
+#  y$             --- copy to end of row
+#  y0             --- copy to start of row
+#  yy             --- copy whole line (no delete)
+#  %s/old/new/g   --- replace old with new through file
+#  %s/old/new/gc  --- replace old with new through file WITH CONFIRMATIONS
+
+# <C-W>w          --- switch windows
+# <C-W>q          --- quit a window
+
+# I               --- start editing at start of line
+# $a              --- start editing at end of line
+
+# hjkl            --- LEFT DOWN UP RIGHT (respectively)
+
+# e               --- jump forward by word (same as ctrl<RIGHT> in other editors)
+# b               --- jump backward by word
+
+
+# 20k             --- up 20 lines
+# 20j             --- down 20 lines
+
+#                 --- swap one line with another
+
+###### BASH SYSTEM SETUP ######
+
+#get proper vim
+sudo apt-get install vim-gnome

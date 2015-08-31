@@ -1,0 +1,31 @@
+#sh
+
+make V=1
+make test
+cd src
+
+#you can't do any system-level config at all without sudo
+sudo su --preserve-environment
+
+# Redis needs lots of users to be able to connect at once
+ulimit -n 10032
+
+#Allow more files to be open at once. Redis needs a lot. Normal: 
+sh -c "echo 4000000 > /proc/sys/fs/file-max"
+
+appendtext "vm.overcommit_memory = 1" "/etc/sysctl.conf"
+sysctl vm.overcommit_memory=1
+
+
+echo never > /sys/kernel/mm/transparent_hugepage/enabled
+
+#dangerous perhaps
+appendtext "never" /etc/rc.local
+
+#more acconections allowed?
+echo "511" > /proc/sys/net/core/somaxconn
+
+#install redis-cli
+sudo apt-get install redis-tools
+
+./redis-server --port 9999 --loglevel debug

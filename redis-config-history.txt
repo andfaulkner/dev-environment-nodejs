@@ -1,0 +1,500 @@
+    7  mkdir postgres
+    8  cd postgres/
+    9  express node-postgres-todo
+   10  cd node-postgres-todo/
+   11  npm install
+   12  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+   13  bashrc
+   14  cd ~/Projects/postgres/node-postgres-todo
+   15  ls
+   16  vim bin/www 
+   17  vim bin/www 
+   18  testbed
+   19  cd ..
+   20  ls
+   21  ..
+   22  cd postgres/
+   23  ls
+   24  vim node-postgres-todo/app.js 
+   25  vimrc
+   26  testbed
+   27  ...
+   28  cd postgres/node-postgres-todo/
+   29  ls
+   30  vim app.js 
+   31  vim app.js 
+   32  vim app.js 
+   33  vim app.js 
+   34  vim app.js 
+   35  vim app.js 
+   36  vim app.js 
+   37  vim app.js 
+   38  vim bin/www 
+   39  vimrc
+   40  vim bin/www 
+   41  vimrc
+   42  vimrc
+   43  xrdb
+   44  man xrdb
+   45  vimrc
+   46  vimrc
+   47  vimrc
+   48  vimrc
+   49  mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+   50  vimrc
+   51  vimrc
+   52  vimrc
+   53  vimrc
+   54  vimrc
+   55  vimrc
+   56  vimrc
+   57  vimrc
+   58  vimrc
+   59  vimrc
+   60  vimrc
+   61  vimrc
+   62  vimrc
+   63  vimrc
+   64  vimrc
+   65  vimrc
+   66  vimrc
+   67  vimrc
+   68  vimrc
+   69  cd .vim
+   70  ls
+   71  cd bundle/
+   72  ls
+   73  ..
+   74  ls
+   75  cd autoload/
+   76  ls
+   77  ls
+   78  ..
+   79  ls
+   80  cd autoload/
+   81  ls
+   82  vim jshint.vim
+   83  vim
+   84  jshint
+   85  ls
+   86  ...
+   87  vimrc
+   88  cd .vim/bundle
+   89  git clone git@github.com:walm/jshint.vim.git
+   90  vimrc
+   91  vimrc
+   92  history
+   93  gnome-terminal -x vim
+   94  vimrc
+   95  vim
+   96  vimrc
+   97  vim
+   98  vim .bashrc
+   99  vim .plugman/
+  100  touch item.txt
+  101  vim item.txt 
+  102  vim item.txt 
+  103  vim item.txt 
+  104  vim item.txt 
+  105  rm .item.txt.swp 
+  106  vim item.txt 
+  107  rm item.txt 
+  108  ls
+  109  echo $VIMRUNTIME
+  110  echo VIMRUNTIME
+  111  $VIMRUNTIME
+  112  cd ~/.vim
+  113  ls
+  114  vim scripts.vim
+  115  vim scripts.vim
+  116  lsa
+  117  rm .scripts.vim.swp
+  118  vim scripts.vim 
+  119  vim scripts.vim 
+  120  deb
+  121  man deb
+  122  deb
+  123  pidof mongo
+  124  testbed
+  125  ls
+  126  ..
+  127  cd ..
+  128  cd postgres/node-postgres-todo/
+  129  ls
+  130  vim bin/www 
+  131  ls
+  132  vim app.js 
+  133  cd vin
+  134  cd bin
+  135  ls
+  136  ..
+  137  ls
+  138  cd routes/
+  139  ls
+  140  vim index.js 
+  141  ..
+  142  ls
+  143  vim package.json 
+  144  npm install pg --save
+  145  npm install pg pg-native -g
+  146  proj
+  147  cd express/express-test-3
+  148  ls
+  149  npm install pg --save
+  150  npm install supervisor -g
+  151  sudo npm install supervisor -g
+  152  node math-plugin.js
+  153  node math-plugin.js
+  154  node math-plugin.js
+  155  node math-plugin.js
+  156  node math-plugin.js
+  157  node math-plugin.js
+  158  node math-plugin.js
+  159  node math-plugin.js
+  160  node math-plugin.js
+  161  node math-plugin.js
+  162  node math-plugin.js
+  163  node math-plugin.js
+  164  node math-plugin.js
+  165  node math-plugin.js
+  166  node math-plugin.js
+  167  node math-plugin.js
+  168  node math-plugin.js
+  169  node math-plugin.js
+  170  node math-plugin.js
+  171  node math-plugin.js
+  172  node math-plugin.js
+  173  node math-plugin.js
+  174  node math-plugin.js
+  175  node math-plugin.js
+  176  node math-plugin.js
+  177  node math-plugin2.js
+  178  node math-plugin-2.js 
+  179  node math-plugin-2.js 
+  180  node math-plugin.js 
+  181  node math-plugin.js 
+  182  node math-plugin.js 
+  183  node math-plugin.js 
+  184  node math-plugin.js 
+  185  node math-plugin.js 
+  186  node math-plugin.js 
+  187  node math-plugin.js 
+  188  node math-plugin.js 
+  189  node math-plugin.js 
+  190  node math-plugin.js 
+  191  node math-plugin.js 
+  192  vimrc
+  193  sudo npm install -g supervisor 
+  194  cd .vim
+  195  vim
+  196  vim
+  197  npm install --save-dev del
+  198  gulp cleanup
+  199  gulp cleanup
+  200  npm start
+  201  npm start
+  202  npm start
+  203  npm start
+  204  npm start
+  205  npm start
+  206  ..
+  207  npm start
+  208  vim /home/andfaulkner/package.json
+  209  ls
+  210  testbed
+  211  npm start
+  212  vim package.json 
+  213  testbed
+  214  ls
+  215  ..
+  216  gulp
+  217  gulp
+  218  gulp
+  219  gulp
+  220  gulp
+  221  ..
+  222  curl http://www.vim.org/scripts/download_script.php?src_id=20270
+  223  http://www.vim.org/scripts/download_script.php?src_id=20270 > ~/.vim/autoload/syntaxcomplete.vim
+  224  curl http://www.vim.org/scripts/download_script.php?src_id=20270 > ~/.vim/autoload/syntaxcomplete.vim
+  225  cd ~/.vim/autoload/
+  226  ls
+  227  vim syntaxcomplete.vim 
+  228  ..
+  229  ..
+  230  cd ~/Projects/postgres/node-postgres-todo
+  231  vim bin/www 
+  232  vim app.js 
+  233  vimrc
+  234  cd ~
+  235  cd .vim
+  236  ls
+  237  cd bundle/
+  238  ls
+  239  cd node
+  240  ls
+  241  ..
+  242  ls
+  243  cd vim-node/
+  244  ls
+  245  ..
+  246  ls
+  247  vim Vundle.vim/
+  248  cd Vundle.vim/
+  249  ls
+  250  vim autoload/
+  251  cd autoload/
+  252  ls
+  253  vim vundle
+  254  vim vundle.vim 
+  255  vim ~/setup-postgres.sh 
+  256  llt ~
+  257  ls -aorta ~
+  258  vim vimsetupimsetup.txtf
+  259  vim ~/vimsetup.txt 
+  260  ls
+  261  llt
+  262  ..
+  263  ls
+  264  llt
+  265  ark
+  266  zip
+  267  mkdir vim-exports
+  268  cp .vimrc vim-exports
+  269  cp -rf .vim vim-exports/
+  270  cp vimsetup.txt vim-exports/
+  271  git clone https://github.com/jelera/vim-javascript-syntax.git ~/.vim/bundle/vim-javascript-syntax
+  272  vim
+  273  cd .vim
+  274  ls
+  275  cd bundle
+  276  git clone https://github.com/marijnh/tern_for_vim.git
+  277  cd tern_for_vim/
+  278  ls
+  279  npm install
+  280  ls
+  281  vim package.json 
+  282  cd autoload/
+  283  ls
+  284  vim tern.vim 
+  285  cd ~/.vim/bundle && git clone https://github.com/scrooloose/syntastic.git
+  286  vimrc
+  287  testbed
+  288  vim gulpfile.js 
+  289  vim setup-postgres.txt
+  290  vim setup-postgres.txt
+  291  vim setup-postgres.txt
+  292  mv setup-postgres.txt setup-postgres.sh
+  293  vim setup-postgres.sh 
+  294  vim setup-postgres.sh 
+  295  testbed 
+  296  vim gulpfile.js 
+  297  ls
+  298  vim app_require_tree.js 
+  299  vim src/models/database.js 
+  300  vim gulpfile.js 
+  301  vimrc
+  302  ;  z
+  303  "
+  304  "
+  305  vimrc
+  306  ls
+  307  ..
+  308  ls
+  309  vimrc
+  310  ls
+  311  ..
+  312  ls
+  313  ll
+  314  llt
+  315  vim .vimrc 
+  316  ulimit -n 10032
+  317  :q
+  318  :q
+  319  exit
+  320  vimrc
+  321  proj
+  322  vimrc
+  323  cd Downloads/
+  324  ls
+  325  llt
+  326  vim New\ Employee\ Setup\ Form\ -\ 2014.05.07
+  327  cd Downloads/
+  328  gunzip linux-brprinter-installer-*.*.*-*.gz
+  329  llt
+  330  llt
+  331  cd linux-brprinter-installer-2.0.0-1
+  332  vim linux-brprinter-installer-2.0.0-1
+  333  bash linux-brprinter-installer-2.0.0-1
+  334  sudo bash linux-brprinter-installer-2.0.0-1
+  335  lpr -P HL2230 /usr/share/cups/data/testprint
+  336  lsusb
+  337  bash linux-brprinter-installer-2.0.0-1
+  338  sudo bash linux-brprinter-installer-2.0.0-1
+  339  cd ~
+  340  vim useful-commands.txt
+  341  vim useful-commands.txt
+  342  vim useful-commands.txt
+  343  ls
+  344  man zip
+  345  zip -r vim-exports/ vim-exports.zip
+  346  zip -r vim-exports/ vim-exports
+  347  ls
+  348  llt
+  349  ls vim-exports/
+  350  ls
+  351  ls
+  352  cd vim-exports/
+  353  ls
+  354  llt
+  355  vim .zip
+  356  vim .zip
+  357  mv .zip vimsetup.zip
+  358  llt
+  359  vim vimsetup.
+  360  vim vimsetup.zip
+  361  rpm
+  362  deb
+  363  sudo apt-get update
+  364  sudo apt-get install xournal
+  365  xournal
+  366  llt
+  367  cat z.txt 
+  368  appendtext z.txt 'my new text'
+  369  cat z.txt cat z.txt as function"
+  370  \
+  371  "
+  372  cat z.txt 
+  373  bashrc
+  374  cat z.txt 
+  375  appendtext
+  376  appendtext 'another new string of text' z.txt 
+  377  cat z.txt 
+  378  bashrc
+  379  ls | grep txt
+  380  gt
+  381  bashrc
+  382  gt
+  383  gt -x "vim bash-tips.txt"
+  384  touch bash-tips.txt
+  385  gt -x "vim bash-tips.txt"
+  386  gt -x vim bash-tips.txt
+  387  vim
+  388  vim
+  389  vim --version
+  390  gvim
+  391  vim -gnome
+  392  gvim
+  393  vim -g
+  394  vim -g
+  395  fg
+  396  man fg
+  397  vim
+  398  fg
+  399  fg
+  400  man fg
+  401  fg --help
+  402  fg -help
+  403  fg -h
+  404  fg ?
+  405  pid
+  406  top
+  407  fg 1995
+  408  fg 1
+  409  fg 2
+  410  fg 1164
+  411  pidof 1164
+  412  pid 1164
+  413  lsof 1164
+  414  pd
+  415  pi
+  416  pa
+  417  pv
+  418  fs
+  419  ps 1164
+  420  vimtutor
+  421  vim --version
+  422  sudo apt-get vim-gnome
+  423  sudo apt-get install vim-gnome
+  424  vim-gnome
+  425  vim
+  426  vim --version
+  427  llt
+  428  ls
+  429  ls -a
+  430  vim bash-tips.txt 
+  431  vim bash-tips.txt 
+  432  vim bash-tips.txt 
+  433  vimrc
+  434  vim bash-tips.txt 
+  435  bashtips
+  436  ulimit -n 4096
+  437  ulimit
+  438  ulimit -n
+  439  man ulimit
+  440  ulimit -n 10032
+  441  sudo ulimit -n 10032
+  442  ulimit -n 10032
+  443  sudo ulimit -n 10032
+  444  su ulimit -n 10032
+  445  su -c ulimit -n 10032
+  446  su -
+  447  ulimit
+  448  su -
+  449  su -
+  450  su --
+  451  su --preserve-environment
+  452  sudo su --preserve-environment
+  453  ls
+  454  history
+  455  echo 4000000 > /proc/sys/fs/file-max
+  456  sudo echo 4000000 > /proc/sys/fs/file-max
+  457  su --preserve-environment
+  458  sudo echo 4000000 > /proc/sys/fs/file-max
+  459  vim /proc/sys/fs/file-max
+  460  echo 4000000 > /proc/sys/fs/file-max
+  461  cat 40000
+  462  echo 40000
+  463  echo 4000000 > /proc/sys/fs/file-max
+  464  sudo echo 4000000 > /proc/sys/fs/file-max
+  465  sudo (echo 4000000) > /proc/sys/fs/file-max
+  466  sudo $(echo 4000000) > /proc/sys/fs/file-max
+  467  sudo echo 4000000 > /proc/sys/fs/file-max
+  468  sudo sh -c "echo 400000 >" /proc/sys/fs/fil
+  469  vim /proc/sys/fs/file-max 
+  470  sudo sh -c "echo 4000000 > /proc/sys/fs/file-max"
+  471  vim /etc/sysctl.conf
+  472  cp /etc/sysctl.conf /etc/sysctl.conf /etc/sysctl.confbk
+  473  man cp
+  474  cp -T /etc/sysctl.conf /etc/sysctl.conf /etc/sysctl.confbk
+  475  cp -t /etc/sysctl.conf /etc/sysctl.conf /etc/sysctl.confbk
+  476  man cp
+  477  cp -t /etc/sysctl.conf /etc/sysctl.conf ~/
+  478  cp /etc/sysctl.conf /etc/sysctl.conf ~
+  479  vim /etc/sysctl.conf 
+  480  vim sysctl.conf 
+  481  mv sysctl.conf sysctl.confbk
+  482  mv sysctl.confbk /etc/sys/
+  483  mv sysctl.confbk /etc/sys
+  484  'vm.overcommit_memory = 1' to /etc/sysctl.conf
+  485  appendtext "vm.overcommit_memory = 1" "/etc/sysctl.conf"
+  486  appendtext "vm.overcommit_memory = 1" "/etc/sysctl.conf"
+  487  exit
+  488  appendtext "vm.overcommit_memory = 1" "/etc/sysctl.conf"
+  489  sudo
+  490  sudo sh -c "echo 4000000 > /proc/sys/fs/file-max"
+  491  sh -c "echo 4000000 > /proc/sys/fs/file-max"
+  492  sysctl vm.overcommit_memory=1
+  493  exit
+  494  echo never > /sys/kernel/mm/transparent_hugepage/enabled
+  495  vim /etc/rc.local 
+  496  appendtext "never" /etc/rc.local
+  497  vim /proc/sys/net/core/somaxconn
+  498  vim /proc/sys/net/core/somaxconn
+  499  exit
+  500  rm /proc/sys/net/core/somaxconn
+  501* rm -f /proc/sys/net/core/somaxconn 
+  502  $(echo "511") > /proc/sys/net/core/somaxconn
+  503  echo "511" > /proc/sys/net/core/somaxconn
+  504  vim /proc/sys/net/core/somaxconn
+  505  history
+  506  history > redis-config-history.txt

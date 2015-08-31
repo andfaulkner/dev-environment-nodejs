@@ -1,0 +1,14 @@
+{
+    // Type of quotes to use
+    "quotes": "single",
+
+    // Use 'var', 'const', or 'let' variable declarations
+    "var": "var",
+
+    "alias": {
+        // <module name>: <variable name>
+        "lodash": "_",
+        "jquery": "$"
+    }
+
+}

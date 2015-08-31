@@ -1,0 +1,35 @@
+DEFINITIONS
+
+
+Convention over Configuration
+**************************************************
+A framework based around this principle will "just work" until you need to do something weird - only then will any configuration and special code be needed.
+****************************************************************************************************
+
+Service-oriented architecture
+**************************************************
+architectural pattern in where application components provide services to other components via a communications protocol, typically over a network
+****************************************************************************************************
+
+Keyhole Markup Language
+**************************************************
+XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers. e.g.
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>New York City</name>
+            <description>New York City</description>
+            <Point>
+                <coordinates>-74.006393,40.714172,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
+****************************************************************************************************
+
+
+TRAITS
+**************************************************
+Collections of methods that can be used to extend the functionality of a class
+****************************************************************************************************
+

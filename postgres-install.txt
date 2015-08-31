@@ -1,0 +1,502 @@
+   69  cmsmo
+   70  vim gulpfile.js 
+   71  ls
+   72  lsa
+   73  cd .config
+   74  lsa
+   75  cd sublime-text-3/
+   76  ls
+   77  cd Local/
+   78  ls
+   79  vim Session.sublime_session 
+   80  ls
+   81  lsa
+   82  vim Session.sublime_session 
+   83  mv Session.sublime_session ../localSlash_Session.sublime_session--bk
+   84  ls
+   85  ..
+   86  ls
+   87  cd Local/
+   88  ls
+   89  rm Session.sublime_session 
+   90  ls
+   91  rm Session.sublime_session 
+   92  watch
+   93  node minimal-plugin.js 
+   94  node minimal-plugin.js  --seneca.log.all
+   95  node minimal-plugin.js  --seneca.log.all | grep plugin
+   96  node minimal-plugin.js  --seneca.log.all | grep plugin | DEFINE
+   97  node minimal-plugin.js  --seneca.log.all | grep plugin | grep DEFINE
+   98  node math-plugin.js
+   99  node math-plugin.js --seneca.log.all | grep math
+  100  node math-plugin.js --seneca.log.all | grep math
+  101  node math-plugin.js --seneca.log.all | grep math
+  102  node math-plugin.js --seneca.log.all | grep math
+  103  node math-plugin.js --seneca.log.all | grep math
+  104  node math-plugin.js --seneca.log.all | grep math
+  105  node math-plugin.js --seneca.log.all | grep math
+  106  node math-plugin.js --seneca.log.all | grep math
+  107  vim
+  108  cd Library
+  109  ls
+  110  llt
+  111  lsa
+  112  cd .config/sublime-text-3/Packages/
+  113  ls
+  114  llt
+  115  ..
+  116  llt
+  117  cd Installed\ Packages/
+  118  llt
+  119  rm TernJS.sublime-package 
+  120  llt
+  121  llt
+  122  rm -rf TernJS.sublime-package 
+  123  llt
+  124  llt
+  125  ls
+  126  ..
+  127  ls
+  128  llt
+  129  cd Index/
+  130  llt
+  131  ..
+  132  llt
+  133  cd Packages/
+  134  llt
+  135  cd User/
+  136  llt
+  137  llt
+  138  ...
+  139  ls
+  140  searchfn ern
+  141  ..
+  142  ls
+  143  cd sublime-text-3/
+  144  ls
+  145  llt
+  146  cd Local/
+  147  ls
+  148  llt
+  149  vim Session.sublime_session 
+  150  ..
+  151  llt
+  152  cd Cache/
+  153  llt
+  154  llt
+  155  cd .config/sublime-text-3/
+  156  cd Backup/
+  157  ls
+  158  llt
+  159  ..
+  160  llt
+  161  cd Packages/
+  162  llt
+  163  cd User/
+  164  llt
+  165  llt
+  166  vim Package\ Control.merged-ca-bundle 
+  167  ..
+  168  llt
+  169  cd User/
+  170  llt
+  171  ..
+  172  cd ssl-linux/
+  173  llt
+  174  cd st3_linux_x64/
+  175  llt
+  176  ...
+  177  llt
+  178  ..
+  179  llt
+  180  cd Installed\ Packages/
+  181  llt
+  182  rm -rf TernJS.sublime-package
+  183  llt
+  184  ..
+  185  llt
+  186  cd Local/
+  187  llt
+  188  rm Auto\ Save\ Session.sublime_session 
+  189  rm Session.sublime_session 
+  190  llt
+  191  ..
+  192  llt
+  193  cd Cache/
+  194  llt
+  195  lsa
+  196  llt
+  197  ..
+  198  llt
+  199  cd In
+  200  cd Index/
+  201  llt
+  202  ..
+  203  sublime
+  204  pidof sublime
+  205  sublime
+  206  ..
+  207  ls
+  208  ..
+  209  ls
+  210  cd Downloads/
+  211  ls
+  212  lsa
+  213  cd sublime_text_3/
+  214  ls
+  215  sublime_text 
+  216  sublime_text 
+  217  sh sublime_text
+  218  bassh sublime_text
+  219  bash sublime_text
+  220  bash ./sublime_text
+  221  sh ./sublime_text
+  222  vim sublime
+  223  vim sublime_text
+  224  ./sublime_text 
+  225  ./sublime_text
+  226  pidof sublime
+  227  pidof sublime_text
+  228  nuke sublime_text
+  229  pidof sublime_text
+  230  sublime
+  231  gedit
+  232  vim .vimrc
+  233  mkdir -p ~/.vim/bundle/node
+  234  git clone https://github.com/moll/vim-node.git ~/.vim/bundle/node
+  235  proj
+  236  ls
+  237  cd express/
+  238  ..
+  239  ls
+  240  mkdir testbed
+  241  cd test
+  242  cd testbed
+  243  ls
+  244  ..
+  245  ls
+  246  cd express/
+  247  mv express-test-3 ../
+  248  ..
+  249  mv express-test-3 testbed
+  250  cd testbed/
+  251  ls
+  252  mv express-test-3 express-testbed
+  253  cd express-testbed
+  254  ls
+  255  bashrc
+  256  vim ~/.bashrc
+  257  vim ~/.vimrc 
+  258  vim ~/.vimrc 
+  259  vim ~/.bashrc
+  260  gedit
+  261  newp gedit
+  262  gedit
+  263  bashrc
+  264  bashrc
+  265  bashrc
+  266  gnome-terminal bashrc
+  267  gnome-terminal $(vim ~/.bashrc)
+  268  man gnome-terminal
+  269  gnome-terminal --command $(vim ~/.bashrc)
+  270  exit
+  271  man gnome-terminal
+  272  gnome-terminal -x vim ~/.bashrc
+  273  gnome-terminal -x vim ~/.bashrc
+  274  lsa
+  275  llt
+  276  mv .bashrc .bashrc2
+  277  mv .bashrc.swp .bashrc
+  278  vim .bashr
+  279  vim .bashrc
+  280  vim .bashrc_backup 
+  281  llt
+  282  vim .bashrc2
+  283  mv .bashrc .bashrc.swp
+  284  mv .bashrc2 .bashrc
+  285  vim .bashrc
+  286  searchfn
+  287  path
+  288  PATH
+  289  env
+  290  alias
+  291  vim .bashrc
+  292  vim .bashrc
+  293  rm .bashrc.swp
+  294  vim .bashrc
+  295  fsync
+  296  open
+  297  man open
+  298  open node
+  299  man open
+  300  fsync
+  301  fdatasync
+  302  fsync()
+  303  fsync()
+  304  asdf()
+  305  fsync(2)
+  306  fsync
+  307  stat
+  308  stat --help
+  309  stat i.txt 
+  310  stat i.txt 
+  311  stat i.txt | grep File 
+  312  stat i.txt | grep Size
+  313  stat i.txt | grep Access
+  314  stat i.txt | grep Uid
+  315  stat i.txt | grep 'Uid'
+  316  stat i.txt | grep Uid
+  317  uid
+  318  uuid
+  319  id
+  320  fd
+  321  man fd
+  322  file
+  323  proj
+  324  cd testbed/
+  325  ls
+  326  bashrc
+  327  history | grep bashrc
+  328  gnome-terminal -x vim ~/.bashrc
+  329  man gnome-terminal
+  330  gnome-terminal --TITLE=BASHRC -x vim ~/.bashrc
+  331  gnome-terminal --title=BASHRC -x vim ~/.bashrc
+  332  gnome-terminal --title=~.BASHRC -x vim ~/.bashrc
+  333  gnome-terminal --title=~.BASHRC -x vim ~/.bashrc
+  334  bashrc
+  335  man gnome-terminal
+  336  gnome-terminal --title=~.BASHRC -geometry 100x100+0+0 -x vim ~/.bashrc
+  337  gnome-terminal --title=~.BASHRC --geometry 100x100+0+0 -x vim ~/.bashrc
+  338  gnome-terminal --title=~.BASHRC --geometry 100x100-0+0 -x vim ~/.bashrc
+  339  gnome-terminal --title=~.BASHRC --geometry 100x50-0+0 -x vim ~/.bashrc
+  340  gnome-terminal --title=~.BASHRC --geometry 100x50-0-0 -x vim ~/.bashrc
+  341  gnome-terminal --title=~.BASHRC --geometry 100x50-0-0 -x vim ~/.bashrc
+  342  gnome-terminal --title=~.BASHRC --geometry 90x50-0-0 -x vim ~/.bashrc
+  343  gnome-terminal --title=~.BASHRC --geometry 100x50-0-0 -x vim ~/.bashrc
+  344  gnome-terminal --title=~.BASHRC --geometry 110x50-0-0 -x vim ~/.bashrc
+  345  vimrc
+  346  bashrc
+  347  vimrc
+  348  bashrc
+  349  vimrc
+  350  bashrc
+  351  vimrc
+  352  bashrc
+  353  vimrc
+  354  bashrc
+  355  vimrc
+  356  vimrc
+  357  man X
+  358  bashrc
+  359  vimrc
+  360  pidof vim
+  361  fsync 23221
+  362  man fsync
+  363  fsync
+  364  bashrc
+  365  vimrc
+  366  testbed
+  367  sudo npm install -g express-generator@4
+  368  proj
+  369  cd postgres/node-postgres-todo/
+  370  ls
+  371  cd bin
+  372  ls
+  373  vim www
+  374  vim www
+  375  bashrc
+  376  vim www
+  377  vimrc
+  378  vimrc
+  379  vim
+  380  vimrc
+  381  vim
+  382  testbed
+  383  vim bin/www
+  384  ls
+  385  ..
+  386  history | grep express
+  387  proj
+  388  mkdir postgres
+  389  cd postgres/
+  390  express node-postgres-todo
+  391  cd node-postgres-todo/
+  392  npm install
+  393  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  394  bashrc
+  395  cd ~/Projects/postgres/node-postgres-todo
+  396  ls
+  397  vim bin/www 
+  398  vim bin/www 
+  399  testbed
+  400  cd ..
+  401  ls
+  402  ..
+  403  cd postgres/
+  404  ls
+  405  vim node-postgres-todo/app.js 
+  406  vimrc
+  407  testbed
+  408  ...
+  409  cd postgres/node-postgres-todo/
+  410  ls
+  411  vim app.js 
+  412  vim app.js 
+  413  vim app.js 
+  414  vim app.js 
+  415  vim app.js 
+  416  vim app.js 
+  417  vim app.js 
+  418  vim app.js 
+  419  vim bin/www 
+  420  vimrc
+  421  vim bin/www 
+  422  vimrc
+  423  vimrc
+  424  xrdb
+  425  man xrdb
+  426  vimrc
+  427  vimrc
+  428  vimrc
+  429  vimrc
+  430  mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+  431  vimrc
+  432  vimrc
+  433  vimrc
+  434  vimrc
+  435  vimrc
+  436  vimrc
+  437  vimrc
+  438  vimrc
+  439  vimrc
+  440  vimrc
+  441  vimrc
+  442  vimrc
+  443  vimrc
+  444  vimrc
+  445  vimrc
+  446  vimrc
+  447  vimrc
+  448  vimrc
+  449  vimrc
+  450  cd .vim
+  451  ls
+  452  cd bundle/
+  453  ls
+  454  ..
+  455  ls
+  456  cd autoload/
+  457  ls
+  458  ls
+  459  ..
+  460  ls
+  461  cd autoload/
+  462  ls
+  463  vim jshint.vim
+  464  vim
+  465  jshint
+  466  ls
+  467  ...
+  468  vimrc
+  469  cd .vim/bundle
+  470  git clone git@github.com:walm/jshint.vim.git
+  471  vimrc
+  472  vimrc
+  473  history
+  474  gnome-terminal -x vim
+  475  vimrc
+  476  vim
+  477  vimrc
+  478  vim
+  479  vim .bashrc
+  480  vim .plugman/
+  481  touch item.txt
+  482  vim item.txt 
+  483  vim item.txt 
+  484  vim item.txt 
+  485  vim item.txt 
+  486  rm .item.txt.swp 
+  487  vim item.txt 
+  488  rm item.txt 
+  489  ls
+  490  echo $VIMRUNTIME
+  491  echo VIMRUNTIME
+  492  $VIMRUNTIME
+  493  cd ~/.vim
+  494  ls
+  495  vim scripts.vim
+  496  vim scripts.vim
+  497  lsa
+  498  rm .scripts.vim.swp
+  499  vim scripts.vim 
+  500  vim scripts.vim 
+  501  testbed
+  502  ls
+  503  cd src
+  504  ls
+  505  cd db-handling/
+  506  ls
+  507  vim postgres-setup.js 
+  508  ls
+  509  ..
+  510  mv db-handling models
+  511  ..
+  512  vim config/project-paths.json 
+  513  cd src/models/
+  514  ls
+  515  vim postgres-setup.js 
+  516  mv postgres-setup.js database.js
+  517  vim database.js 
+  518  node database.js 
+  519  vim database.js 
+  520  ..
+  521  ..
+  522  npm install --save pg
+  523  cd src/models/
+  524  node database.js 
+  525  ..
+  526  node models/database.js
+  527  postgres
+  528  postgres | last
+  529  postgres | top
+  530  postgres | head
+  531  postgres | head 1
+  532  postgres | top 1
+  533  sudo apt-get install postgres-xc
+  534  sudo apt-get install postgres-xc
+  535  apt-get install postgresql-9.4
+  536  sudo apt-get install postgresql-9.4
+  537  cd /var/lib/dpkg/ 
+  538  ls
+  539  llt
+  540  rm lock
+  541  ls
+  542  sudo rm lock
+  543  ls
+  544  llt
+  545* sudo apt-get install postgresql
+  546  wget
+  547  apt-get install postgresql-9.4
+  548  sudo apt-get install postgresql-9.4
+  549  deb
+  550  vim /etc/apt/sources.list.d/pgdg.list
+  551  sudo add-apt-repository http://apt.postgresql.org/pub/repos/apt/
+  552  sudo apt-get update
+  553  sudo touch /etc/apt/sources.list.d/pgdg.list
+  554  sudo vim /etc/apt/sources.list.d/pgdg.list 
+  555  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main" > \
+/etc/apt/sources.list.d/pgdg.list'
+  556  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ trusty-pgdg main" > \
+/etc/apt/sources.list.d/pgdg.list'
+  557  sudo apt-get install wget ca-certificates
+  558* wget -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add 
+  559* postgres sudo apt-get update
+  560  sudo apt-get update
+  561  sudo apt-get upgrade
+  562  cd /var/cache/apt/archives/lock
+  563  rm -rf /var/cache/apt/archives/lock
+  564  sudo rm -rf /var/cache/apt/archives/lock
+  565  rm -rf /var/cache/apt/archives/lock
+  566  sudo apt-get upgrade
+  567  pwd
+  568  history > ~/postgres-install.txt
